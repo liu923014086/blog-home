@@ -1,11 +1,11 @@
 {
-    "title": "Auroraの主页",
+    "title": "Liudaxia主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Aurora,个人主页",
-    "author": "Aurora",
+    "keywords": "Liudaxia,个人主页",
+    "author": "Liudaxia",
     "logo_img": "./img/icon/avatar.jpg",
-    "logo_text_1": "wuhobin",
-    "logo_text_2": "top",
+    "logo_text_1": "Liudaxia",
+    "logo_text_2": "威武",
     "github": "wuhobin",
     "qq": "1289066006",
     "email": "1289066006@qq.com",
@@ -41,6 +41,6 @@
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "Aurora",
+    "Copyright_text": "Liudaxia",
     "beian": "鄂ICP备20006685号"
 }

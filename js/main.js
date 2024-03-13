@@ -312,7 +312,7 @@ $('#close').on('click', function () {
 });
 
 //移动端菜单栏切换
-let switchmenu = false;
+let switchmenu = true;
 $('#switchmenu').on('click', function () {
     switchmenu = !switchmenu;
     if (switchmenu) {
@@ -403,7 +403,7 @@ color: #425AEF;
 let styleContent = `
 color: rgb(30,152,255);
 `
-let title1 = 'Auroraの主页'
+let title1 = 'Liudaxia'
 let title2 = `
 
 ██████╗ ██╗   ██╗██╗    ██╗██╗███╗   ██╗██████╗ 
